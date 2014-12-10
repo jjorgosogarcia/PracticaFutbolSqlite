@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.izv.angel.updatesqlite.Secundaria">
+    <item android:id="@+id/action_settings"
+        android:title="@string/agregar_partido"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
